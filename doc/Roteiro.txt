@@ -1,3 +1,5 @@
 1 - Instalações iniciais do Babel e React
     -> yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -D
     -> yarn add react react-dom
+    -> yarn add babel-loader -D        (loader de JS)
+    -> yarn add webpack-dev-server -D  (auto start do servidor)
