@@ -3,3 +3,5 @@
     -> yarn add react react-dom
     -> yarn add babel-loader -D        (loader de JS)
     -> yarn add webpack-dev-server -D  (auto start do servidor)
+    -> yarn add style-loader css-loader -D (Loaders para estilos CSS)
+    -> yarn add file-loader -D (loader para exibição de imagens)
