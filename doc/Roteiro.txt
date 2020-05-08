@@ -5,3 +5,5 @@
     -> yarn add webpack-dev-server -D  (auto start do servidor)
     -> yarn add style-loader css-loader -D (Loaders para estilos CSS)
     -> yarn add file-loader -D (loader para exibição de imagens)
+    -> yarn add @babel/plugin-proposal-class-properties -D
+    -> yarn add prop-types (define tipos para as variaveis)
